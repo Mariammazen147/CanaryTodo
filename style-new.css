@@ -31,6 +31,10 @@ h1 {
     margin-bottom: 20px;
     text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
 }
+p {
+    color: #D2C1B6; 
+    margin-bottom: 15px;
+}
 
 form {
     display: flex;

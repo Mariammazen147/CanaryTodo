@@ -60,11 +60,11 @@ ini_set('display_errors', 1);
                 <button type="submit" name="clear">Clear All</button>
             </form>
             <hr>
-            <p><a href="verify.php">Verify 10% Rollout</a></p>
+            <p><a href="verify.php">Verify <?php echo CANARY_PERCENTAGE; ?>% Rollout</a></p>
             <a href="?force=new">Force New UI</a> | <a href="?force=old">Force Old UI</a> | <a href=".">Reset</a>
         <?php else: ?>
             <hr>
-            <p><a href="verify.php">Verify 10% Rollout</a></p>
+            <p><a href="verify.php">Verify <?php echo CANARY_PERCENTAGE; ?>% Rollout</a></p>
         <?php endif; ?>
     </div>
 
