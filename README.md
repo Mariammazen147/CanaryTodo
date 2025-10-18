@@ -4,7 +4,7 @@ A PHP app demonstrating a 10% canary release of a redesigned UI for a todo list 
 
 ## Team
 1. Mariam Mazen 20226131
-2. Eman Huessin 20226023
+2. Eman Hussein 20226023
 3. Emy Ihab 20226025
 4. Judi Wael 20225061
 5. Marlin Ehab 20226082
