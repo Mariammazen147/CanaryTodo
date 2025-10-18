@@ -16,4 +16,4 @@ A PHP app demonstrating a 10% canary release of a redesigned UI for a todo list 
 
 
 ## Presentation
-[Link to Google Slides]
+[\[See Here\]](https://docs.google.com/presentation/d/163eXjO8eP0Npzng-evbgVL7bXR1d7dRAEcL_tlEFuNw/edit?usp=sharing)
