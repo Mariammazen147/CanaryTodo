@@ -1,0 +1,63 @@
+[6d659bb5f136531a1fe733e67b9f6112] Bucket: 41, UI: Old Classic UI - Todo List
+[0af74140238c8cf494b6e15404ca0ce1] Bucket: 56, UI: Old Classic UI - Todo List
+[af14ac8177af55458c836f4c0b88380a] Bucket: 81, UI: Old Classic UI - Todo List
+[b4f073a4d2c3d07dce640ce028e4addf] Bucket: 24, UI: Old Classic UI - Todo List
+[81915e508b46a903aa3861b825f86930] Bucket: 28, UI: Old Classic UI - Todo List
+[b00a86941385eb617797e42e6d2ad6b4] Bucket: 28, UI: Old Classic UI - Todo List
+[689f5587643b50c386e3dcdd0de8fead] Bucket: 83, UI: Old Classic UI - Todo List
+[689f5587643b50c386e3dcdd0de8fead] Bucket: 83, UI: New Redesigned UI - Todo List
+[689f5587643b50c386e3dcdd0de8fead] Bucket: 83, UI: Old Classic UI - Todo List
+[cb28fc58c1540c2279ced0d8d712cd4a] Bucket: 88, UI: Old Classic UI - Todo List
+[601374de716bc41f9ffd53808997f5bb] Bucket: 38, UI: Old Classic UI - Todo List
+[601374de716bc41f9ffd53808997f5bb] Bucket: 38, UI: Old Classic UI - Todo List
+[601374de716bc41f9ffd53808997f5bb] Bucket: 38, UI: Old Classic UI - Todo List
+[601374de716bc41f9ffd53808997f5bb] Bucket: 38, UI: Old Classic UI - Todo List
+[6d659bb5f136531a1fe733e67b9f6112] Bucket: 41, UI: New Redesigned UI - Todo List
+[cb28fc58c1540c2279ced0d8d712cd4a] Bucket: 88, UI: Old Classic UI - Todo List
+[6d659bb5f136531a1fe733e67b9f6112] Bucket: 41, UI: New Redesigned UI - Todo List
+[cb28fc58c1540c2279ced0d8d712cd4a] Bucket: 88, UI: Old Classic UI - Todo List
+[cb28fc58c1540c2279ced0d8d712cd4a] Bucket: 88, UI: Old Classic UI - Todo List
+[cb28fc58c1540c2279ced0d8d712cd4a] Bucket: 88, UI: Old Classic UI - Todo List
+[6d659bb5f136531a1fe733e67b9f6112] Bucket: 41, UI: Old Classic UI - Todo List
+[6d659bb5f136531a1fe733e67b9f6112] Bucket: 41, UI: New Redesigned UI - Todo List
+[6d659bb5f136531a1fe733e67b9f6112] Bucket: 41, UI: New Redesigned UI - Todo List
+[6d659bb5f136531a1fe733e67b9f6112] Bucket: 41, UI: New Redesigned UI - Todo List
+[6d659bb5f136531a1fe733e67b9f6112] Bucket: 41, UI: New Redesigned UI - Todo List
+2025-10-18 10:48:29 | User: 6d659bb5f136531a1fe733e67b9f6112 | Bucket: 41 | UI: New Redesigned UI - Todo List
+2025-10-18 10:48:45 | User: cb28fc58c1540c2279ced0d8d712cd4a | Bucket: 88 | UI: Old Classic UI - Todo List
+2025-10-18 10:48:52 | Simulated 100 users | Canary: 53 (53%)
+2025-10-18 10:49:07 | User: cb28fc58c1540c2279ced0d8d712cd4a | Bucket: 88 | UI: Old Classic UI - Todo List
+2025-10-18 10:49:11 | Simulated 100 users | Canary: 45 (45%)
+2025-10-18 10:49:33 | User: cb28fc58c1540c2279ced0d8d712cd4a | Bucket: 88 | UI: Old Classic UI - Todo List
+2025-10-18 10:49:52 | Simulated 100 users | Canary: 10 (10%)
+2025-10-18 10:50:07 | User: cb28fc58c1540c2279ced0d8d712cd4a | Bucket: 88 | UI: Old Classic UI - Todo List
+2025-10-18 10:50:15 | User: 6d659bb5f136531a1fe733e67b9f6112 | Bucket: 41 | UI: Old Classic UI - Todo List
+2025-10-18 10:51:31 | Simulated 100 users | Canary: 46 (46%)
+2025-10-18 10:51:42 | Simulated 100 users | Canary: 55 (55%)
+2025-10-18 10:51:50 | User: cb28fc58c1540c2279ced0d8d712cd4a | Bucket: 88 | UI: Old Classic UI - Todo List
+2025-10-18 10:51:52 | User: cb28fc58c1540c2279ced0d8d712cd4a | Bucket: 88 | UI: Old Classic UI - Todo List
+2025-10-18 10:51:59 | User: 6d659bb5f136531a1fe733e67b9f6112 | Bucket: 41 | UI: New Redesigned UI - Todo List
+2025-10-18 10:52:02 | Simulated 100 users | Canary: 48 (48%)
+2025-10-18 10:52:11 | User: 6d659bb5f136531a1fe733e67b9f6112 | Bucket: 41 | UI: New Redesigned UI - Todo List
+2025-10-18 10:57:36 | User: 6d659bb5f136531a1fe733e67b9f6112 | Bucket: 41 | UI: New Redesigned UI - Todo List
+2025-10-18 11:14:47 | User: 6d659bb5f136531a1fe733e67b9f6112 | Bucket: 41 | UI: New Redesigned UI - Todo List
+2025-10-18 11:14:54 | User: cb28fc58c1540c2279ced0d8d712cd4a | Bucket: 88 | UI: Old Classic UI - Todo List
+2025-10-18 11:15:00 | User: cb28fc58c1540c2279ced0d8d712cd4a | Bucket: 88 | UI: Old Classic UI - Todo List
+2025-10-18 11:17:41 | User: 6d659bb5f136531a1fe733e67b9f6112 | Bucket: 41 | UI: New Redesigned UI - Todo List
+2025-10-18 11:27:09 | User: 6d659bb5f136531a1fe733e67b9f6112 | Bucket: 41 | UI: New Redesigned UI - Todo List
+2025-10-18 11:27:28 | User: 6d659bb5f136531a1fe733e67b9f6112 | Bucket: 41 | UI: New Redesigned UI - Todo List
+2025-10-18 11:27:37 | User: 6d659bb5f136531a1fe733e67b9f6112 | Bucket: 41 | UI: New Redesigned UI - Todo List
+2025-10-18 11:27:42 | User: 6d659bb5f136531a1fe733e67b9f6112 | Bucket: 41 | UI: New Redesigned UI - Todo List
+2025-10-18 11:27:53 | User: 6d659bb5f136531a1fe733e67b9f6112 | Bucket: 41 | UI: New Redesigned UI - Todo List
+2025-10-18 11:28:28 | User: cb28fc58c1540c2279ced0d8d712cd4a | Bucket: 88 | UI: Old Classic UI - Todo List
+2025-10-18 11:35:31 | User: 6d659bb5f136531a1fe733e67b9f6112 | Bucket: 41 | UI: New Redesigned UI - Todo List
+2025-10-18 11:35:39 | User: cb28fc58c1540c2279ced0d8d712cd4a | Bucket: 88 | UI: Old Classic UI - Todo List
+2025-10-18 11:42:15 | User: 6d659bb5f136531a1fe733e67b9f6112 | Bucket: 41 | UI: New Redesigned UI - Todo List
+2025-10-18 11:43:33 | User: 6d659bb5f136531a1fe733e67b9f6112 | Bucket: 41 | UI: New Redesigned UI - Todo List
+2025-10-18 11:45:13 | User: 6d659bb5f136531a1fe733e67b9f6112 | Bucket: 41 | UI: New Redesigned UI - Todo List
+2025-10-18 11:46:19 | User: 6d659bb5f136531a1fe733e67b9f6112 | Bucket: 41 | UI: New Redesigned UI - Todo List
+2025-10-18 11:47:01 | User: cb28fc58c1540c2279ced0d8d712cd4a | Bucket: 88 | UI: Old Classic UI - Todo List
+2025-10-18 11:49:52 | User: 6d659bb5f136531a1fe733e67b9f6112 | Bucket: 41 | UI: New Redesigned UI - Todo List
+2025-10-18 11:50:26 | User: 6d659bb5f136531a1fe733e67b9f6112 | Bucket: 41 | UI: New Redesigned UI - Todo List
+2025-10-18 11:50:31 | User: 6d659bb5f136531a1fe733e67b9f6112 | Bucket: 41 | UI: New Redesigned UI - Todo List
+2025-10-18 11:50:35 | User: cb28fc58c1540c2279ced0d8d712cd4a | Bucket: 88 | UI: Old Classic UI - Todo List
