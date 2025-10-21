@@ -2,13 +2,6 @@
 
 A PHP app demonstrating a 10% canary release of a redesigned UI for a todo list and verification page.
 
-## Team
-1. Mariam Mazen 20226131
-2. Eman Hussein 20226023
-3. Emy Ihab 20226025
-4. Judi Wael 20225061
-5. Marlin Ehab 20226082
-
 ## Setup
 1. Install XAMPP (apachefriends.org).
 2. Place files in `C:\xampp\htdocs\feature-toggle-demo`.
